@@ -1,3 +1,7 @@
+data/obj/92.jpg
+data/obj/frame_1222.jpg
+data/obj/2.jpg
+data/obj/266.jpg
 data/obj/frame_1112.jpg
 data/obj/frame_913.jpg
 data/obj/frame_1094.jpg
@@ -5,12 +9,16 @@ data/obj/frame_1045.jpg
 data/obj/299.jpg
 data/obj/122.jpg
 data/obj/283.jpg
+data/obj/frame_1270.jpg
+data/obj/frame_1278.jpg
 data/obj/37.jpg
 data/obj/frame_1046.jpg
 data/obj/frame_444.jpg
 data/obj/277.jpg
 data/obj/30.jpg
 data/obj/frame_433.jpg
+data/obj/frame_1281.jpg
+data/obj/1303.jpg
 data/obj/frame_414.jpg
 data/obj/frame_1218.jpg
 data/obj/frame_1116.jpg
@@ -26,6 +34,3 @@ data/obj/frame_1235.jpg
 data/obj/frame_443.jpg
 data/obj/frame_437.jpg
 data/obj/frame_1217.jpg
-data/obj/frame_435.jpg
-data/obj/frame_1113.jpg
-data/obj/frame_1238.jpg
